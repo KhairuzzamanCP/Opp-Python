@@ -1,0 +1,1 @@
+pihtron.add_teacher('tom', 'alg')
